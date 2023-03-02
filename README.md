@@ -18,3 +18,6 @@ https://enap.gov.br/pt/acontece/noticias/ja-temos-os-vencedores-do-concurso-inov
 
 Information about the incident and maps generated with the data resulting from the sicripts are available at:
 https://www.ibama.gov.br/manchasdeoleo
+
+
+https://youtu.be/TRq6FLwC2ss?list=FLiYpYi8nQGa_WPIKV8V5Htg&t=1159

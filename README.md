@@ -9,3 +9,12 @@ https://enap.gov.br/pt/acontece/noticias/ja-temos-os-vencedores-do-concurso-inov
 
 Informações sobre o incidente e mapas gerados com os dados resultantes dos sicripts estão disponíveis em:
 https://www.ibama.gov.br/manchasdeoleo 
+
+# Oil Spils
+Automation of the oil spil debris mapping process on the Brazilian coast (2019) Python scripts generated with QGIS Model Designer
+
+Award-winning initiative (3rd place) in the 25th Edition of the ENAP Innovation Contest in 2021 Category: "Innovation in Organizational processes in the federal, state and Federal District Executive Branch"
+https://enap.gov.br/pt/acontece/noticias/ja-temos-os-vencedores-do-concurso-inovacao-no-setor-publico-2021
+
+Information about the incident and maps generated with the data resulting from the sicripts are available at:
+https://www.ibama.gov.br/manchasdeoleo
